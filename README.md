@@ -17,8 +17,7 @@
 2. cloning your private repository
 ```bash
 cd ~/
-git clone https://YOUR_USERNAME:YOUR_TOKEN@github.com/\
-YOUR_USERNAME/YOUR_PRIVATE_REPOSITORY_NAME.git
+git clone https://YOUR_USERNAME:YOUR_TOKEN@github.com/YOUR_USERNAME/YOUR_PRIVATE_REPOSITORY_NAME.git
 ```
 
 3. 실습 자료를 개인 레포지토리로 가져오기
