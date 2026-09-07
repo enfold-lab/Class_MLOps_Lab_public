@@ -6,7 +6,7 @@
     - If cloning for the first time:
     ```bash
     cd ~/
-    git clone https://github.com/Integrative-Data-Comprehension-Lab/Class_MLOps_Lab_public
+    git clone https://github.com/enfold-lab/Class_MLOps_Lab_public
     ```
     - If you already cloned before:
     ```bash
